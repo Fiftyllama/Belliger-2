@@ -19224,3 +19224,14 @@ Entries:
   id: 2120
   time: '2026-04-03T11:08:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3285
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Faction datafarms now produce 200 science per second instead of 35.
+    - type: Tweak
+      message: >-
+        Normal research datafarms now produce 20 science per second instead of
+        10.
+  id: 2121
+  time: '2026-04-03T17:42:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3681
